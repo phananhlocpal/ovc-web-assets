@@ -16,10 +16,10 @@ for filename in os.listdir(folder_path):
         }
         members.append(member)
 
-# Tạo JSON-like text với key không có "", value là chuỗi vẫn có ""
+# Tạo JSON-like text với key không có ""
 lines = []
 for m in members:
-    line = f'{{name: \'{m["name"]}\', position: \'{m["position"]}\', image: \'{m["image"]}\'}}'
+    line = f'{{name:{m["name"]},position:{m["position"]},image:{m["image"]}}}'
     lines.append(line)
 
 text = "{\nmembers:[\n" + ",\n".join(lines) + "\n]\n}"
@@ -27,4 +27,4 @@ text = "{\nmembers:[\n" + ",\n".join(lines) + "\n]\n}"
 with open("members.json", "w", encoding="utf-8") as f:
     f.write(text)
 
-print("Đã xuất xong members.json kiểu key không nháy, value có nháy")
+print("Đã xuất xong members.json kiểu key không có nháy")

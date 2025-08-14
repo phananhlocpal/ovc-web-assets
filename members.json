@@ -1,0 +1,33 @@
+{
+members:[
+{name: '1-phan-anh-loc-cn', position: 'cn', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/1-phan-anh-loc-cn.webp'},
+{name: '10-nguyen-huu-tai-TV', position: 'TV', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/10-nguyen-huu-tai-TV.webp'},
+{name: '11-tran-ngoc-khanh-TV', position: 'TV', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/11-tran-ngoc-khanh-TV.webp'},
+{name: '12-dinh-thanh-son-TV', position: 'TV', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/12-dinh-thanh-son-TV.webp'},
+{name: '13-nguyen-thi-thanh-truc-TV', position: 'TV', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/13-nguyen-thi-thanh-truc-TV.webp'},
+{name: '14-nguyen-ngoc-hoang-yen-TV', position: 'TV', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/14-nguyen-ngoc-hoang-yen-TV.webp'},
+{name: '15-nguyen-manh-dan-TV', position: 'TV', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/15-nguyen-manh-dan-TV.webp'},
+{name: '16-le-nguyen-minh-giang-TV', position: 'TV', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/16-le-nguyen-minh-giang-TV.webp'},
+{name: '17-nguyen-minh-khoa-TV', position: 'TV', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/17-nguyen-minh-khoa-TV.webp'},
+{name: '18-nguyen-truong-giang-TV', position: 'TV', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/18-nguyen-truong-giang-TV.webp'},
+{name: '19-phan-minh-quan-TV', position: 'TV', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/19-phan-minh-quan-TV.webp'},
+{name: '2-ngo-hong-thao-pcn', position: 'pcn', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/2-ngo-hong-thao-pcn.webp'},
+{name: '20-duong-minh-quan-TV', position: 'TV', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/20-duong-minh-quan-TV.webp'},
+{name: '21-tu-vo-hung-phat-TV', position: 'TV', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/21-tu-vo-hung-phat-TV.webp'},
+{name: '22-nguyen-vu-thanh-tung-TV', position: 'TV', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/22-nguyen-vu-thanh-tung-TV.webp'},
+{name: '23-le-hong-anh-TV', position: 'TV', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/23-le-hong-anh-TV.webp'},
+{name: '24-tran-hoai-phuc-TV', position: 'TV', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/24-tran-hoai-phuc-TV.webp'},
+{name: '25-nguyen-huu-tho-TV', position: 'TV', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/25-nguyen-huu-tho-TV.webp'},
+{name: '26-dang-duc-toan-TV', position: 'TV', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/26-dang-duc-toan-TV.webp'},
+{name: '27-quach-hoang-nhu-thao-TV', position: 'TV', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/27-quach-hoang-nhu-thao-TV.webp'},
+{name: '28-tran-anh-thu-TV', position: 'TV', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/28-tran-anh-thu-TV.webp'},
+{name: '29-nguyen-phuong-thuy-cat-TV', position: 'TV', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/29-nguyen-phuong-thuy-cat-TV.webp'},
+{name: '3-nguyen-ngoc-yen-anh-leader-media', position: 'media', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/3-nguyen-ngoc-yen-anh-leader-media.webp'},
+{name: '4-nguyen-tran-vu-leader-HR', position: 'HR', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/4-nguyen-tran-vu-leader-HR.webp'},
+{name: '5-duong-minh-duy-leader-event-executive', position: 'executive', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/5-duong-minh-duy-leader-event-executive.webp'},
+{name: '6-pham-thi-phuong-minh-leader-finance', position: 'finance', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/6-pham-thi-phuong-minh-leader-finance.webp'},
+{name: '7-nguyen-chi-tai-TV', position: 'TV', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/7-nguyen-chi-tai-TV.webp'},
+{name: '8-nguyen-thanh-nhu-TV', position: 'TV', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/8-nguyen-thanh-nhu-TV.webp'},
+{name: '9-duong-vo-ngoc-ngan-TV', position: 'TV', image: 'https://cdn.jsdelivr.net/gh/phananhlocpal/ovc-web-assets@master/ovc-image/about-us/generation/gen0-2021/9-duong-vo-ngoc-ngan-TV.webp'}
+]
+}
